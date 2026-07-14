@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=bf91f3&center=true&vCenter=true&width=600&lines=Building+scalable+applications+with+AI;Architecting+Cloud+Solutions;Exploring+Web3+and+Blockchain;I+turn+coffee+into+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=bf91f3&center=true&vCenter=true&width=600&lines=Building+scalable+applications+with+AI;Exploring+Web3+and+Blockchain;I+turn+coffee+into+code!" alt="Typing SVG" />
 </div>
 
 <br/>
