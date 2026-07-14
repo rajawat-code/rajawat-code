@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Anshuman%20Rajwat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Back%20end%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Anshuman%20Rajwat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Backend%20%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25" />
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@
       <h2 align="center"><img src="./assets/header-about.svg" height="40" /></h2>
       <pre lang="typescript"><code>const Anshuman Rajawat = {
   location: "India",
-  role: "Full Stack Dev & AI Enthusiast",
+  role: "Backend Dev & AI Enthusiast",
   focus: "Scalable Apps & AI Integration",
   funFact: "I debug with console.log!"
 };</code></pre>
