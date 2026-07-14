@@ -46,7 +46,7 @@
         <img src="https://skillicons.dev/icons?i=docker,kafka" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-ai.svg" width="20" align="center" /> AI & Tools</b><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />
       </div>
     </td>
     <td width="50%" valign="top">
