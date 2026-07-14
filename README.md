@@ -37,13 +37,13 @@
       <br/>
       <div align="center">
         <b><img src="./assets/icon-frontend.svg" width="20" align="center" /> Frontend</b><br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind" height="40" />
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-backend.svg" width="20" align="center" /> Backend & Database</b><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,flask,java,mongodb,postgres,mysql" height="40" />
+        <img src="https://skillicons.dev/icons?i=java,Springboot,Spring JPA,Spring Security,Hibernate,microservices,mongodb,postgres,mysql" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-cloud.svg" width="20" align="center" /> Cloud & DevOps</b><br/>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux" height="40" />
+        <img src="https://skillicons.dev/icons?i=docker,kafka" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-ai.svg" width="20" align="center" /> AI & Tools</b><br/>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,figma,postman,redis" height="40" />
@@ -51,11 +51,10 @@
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="./assets/header-about.svg" height="40" /></h2>
-      <pre lang="typescript"><code>const manishRaj = {
+      <pre lang="typescript"><code>const Anshuman Rajawat = {
   location: "India",
   role: "Full Stack Dev & AI Enthusiast",
   focus: "Scalable Apps & AI Integration",
-  passions: ["Web3", "Cloud Architecture"],
   funFact: "I debug with console.log!"
 };</code></pre>
       <br/>
@@ -63,7 +62,6 @@
       <ul>
         <li><img src="./assets/icon-telescope.svg" width="16" /> Building <b>AI-powered web applications</b></li>
         <li><img src="./assets/icon-book.svg" width="16" /> Learning <b>Microservices Architecture</b></li>
-        <li><img src="./assets/icon-web3.svg" width="16" /> Exploring <b>Web3</b> and <b>Blockchain</b></li>
         <li><img src="./assets/icon-opensource.svg" width="16" /> Open for <b>Open Source Projects</b></li>
       </ul>
     </td>
@@ -77,14 +75,14 @@
 <h2 align="center"><img src="./assets/header-stats.svg" height="40" /></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha0978&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha0978&layout=compact&langs_count=6&theme=tokyonight&border_radius=15" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajawat-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajawat-code&layout=compact&langs_count=6&theme=tokyonight&border_radius=15" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha0978&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&border_radius=15" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajawat-code&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&border_radius=15" width="800" />
 </div>
 
 <br/>
