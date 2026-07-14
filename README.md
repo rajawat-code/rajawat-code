@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/anshuman___rajawat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:manishraj.codex@gmail.com">
+  <a href="mailto:rajawatanshuman9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -40,13 +40,13 @@
         <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-backend.svg" width="20" align="center" /> Backend & Database</b><br/>
-        <img src="https://skillicons.dev/icons?i=java,Springboot,Spring JPA,Spring Security,Hibernate,microservices,mongodb,postgres,mysql" height="40" />
+        <img src="https://skillicons.dev/icons?i=java,Spring,Springboot,mongodb,postgres,mysql" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-cloud.svg" width="20" align="center" /> Cloud & DevOps</b><br/>
         <img src="https://skillicons.dev/icons?i=docker,kafka" height="40" />
         <br/><br/>
         <b><img src="./assets/icon-ai.svg" width="20" align="center" /> AI & Tools</b><br/>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,figma,postman,redis" height="40" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,IntelliJ IDEA" height="40" />
       </div>
     </td>
     <td width="50%" valign="top">
