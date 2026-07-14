@@ -88,7 +88,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha0978&theme=tokyonight&border_radius=15" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajawat-code&theme=tokyonight&border_radius=15" alt="Streak Stats" />
 </div>
 
 <br/>
